@@ -6,7 +6,7 @@ on:
       BRANCH_GIT_URL:
         description: 'BRANCH_GIT_URL to clone kernel source'
         required: true
-        default: 'gpu https://github.com/SN-Abdullah-Al-Noman/SM-A225X'
+        default: 'A225FXXSBDYE2_BPF https://github.com/SN-Abdullah-Al-Noman/SM-A225X'
 
 jobs:
   build:
